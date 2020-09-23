@@ -2,6 +2,6 @@
 
 ## Radek Pachulski
 
-### I'm a web developer. I'm always open to collaborating on new projects or just grabbing a beer/coffee, so feel free to contact me.
+### I'm a front end developer. I'm always open to collaborating on new projects or just grabbing a beer/coffee, so feel free to contact me.
 
 
