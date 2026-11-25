@@ -11,6 +11,6 @@ distributed as an npm package across five products.
 Most of what I build lives in private repositories, so this profile is quieter
 than my commit graph suggests.
 
-Previously twelve years as a structural engineer, including three in the US.
+Previously 13 years as a structural engineer, including three in the US.
 
 [LinkedIn](https://linkedin.com/in/radoslaw-pachulski)
