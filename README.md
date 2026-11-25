@@ -1,6 +1,6 @@
 ### Radosław Pachulski
 
-Frontend developer, 5+ years commercial experience.
+Frontend developer, 6+ years commercial experience.
 React · React Native · TypeScript · Next.js · Redux Toolkit · Tailwind CSS
 
 I work at [Dietly](https://dietly.pl) on a multi-product platform for the diet
